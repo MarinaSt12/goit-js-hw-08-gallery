@@ -1,0 +1,25 @@
+{
+  "name": "goit-js-hw-08-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaSt12/goit-js-hw-08-gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaSt12/goit-js-hw-08-gallery/issues"
+  },
+  "homepage": "https://github.com/MarinaSt12/goit-js-hw-08-gallery#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
